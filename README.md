@@ -38,6 +38,3 @@ starbucks.authenticate(username, password).then(result => {
 ## License
 
 MIT
-
-
-> Antoine de Chassey
