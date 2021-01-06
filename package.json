@@ -6,7 +6,7 @@
   "author": "Nick Lee",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.16.2",
+    "axios": "^0.21.1",
     "bluebird": "^3.5.0",
     "lodash": "^4.17.4",
     "md5": "^2.2.1",
